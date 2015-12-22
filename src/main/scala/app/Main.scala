@@ -1,6 +1,8 @@
 
 package app
 
+import akka.actor.{Actor, PoisonPill}
+
 object Main {
   
   def main(args: Array[String]) {
