@@ -1,4 +1,6 @@
 .settings/
+.idea/
+.idea_modules/
 project/
 bin/
 target/
